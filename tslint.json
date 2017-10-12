@@ -81,8 +81,7 @@
     ],
     "prefer-const": true,
     "quotemark": [
-      true,
-      "single"
+      false
     ],
     "radix": true,
     "semicolon": [
@@ -121,7 +120,7 @@
       "camelCase"
     ],
     "component-selector": [
-      true,
+      false,
       "element",
       "app",
       "kebab-case"
